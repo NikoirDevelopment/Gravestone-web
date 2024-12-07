@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(0, 132, 255);
+}
+
+.ToolBar {
+  width: 1000px;
+  height: 60px;
+  margin: 70px;
+  position: absolute;
+  top: auto;
+
+  background-color: white;
+}
